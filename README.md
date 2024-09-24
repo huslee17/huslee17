@@ -29,10 +29,10 @@ I'm a passionate developer with a love for coding, problem-solving, and learning
 - **Tools**: VSCode, Postman, Git, AWS
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=huslee17-username&show_icons=true&theme=radical)
 
 ### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huslee17-username&layout=compact&theme=radical)
 
 ---
 
