@@ -17,12 +17,4 @@
 - **DevOps**: Kubernetes, Docker, GitHub
 - **Tools**: VSCode, Postman, Git, AWS
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=huslee17&show_icons=true&theme=radical)
-
-### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huslee17&hide=html,css&layout=compact&theme=radical)
-
----
-
 Feel free to explore my repositories and get in touch if you'd like to collaborate! 😊
