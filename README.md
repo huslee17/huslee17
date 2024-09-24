@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]!
+# Hi there 👋 I'm Khuslee!
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> 
 <br/> 
