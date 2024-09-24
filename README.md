@@ -21,7 +21,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=huslee17&show_icons=true&theme=radical)
 
 ### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huslee17&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huslee17&hide=html,css&layout=compact&theme=radical)
 
 ---
 
