@@ -14,7 +14,7 @@
 - **Frontend**: React, Tailwind CSS, Next.js
 - **Backend**: Go, .NET, Python, FastAPI, Django
 - **Databases**: PostgreSQL, AWS RDS
-- **DevOps**: Kubernetes, Docker, GitHub Actions
+- **DevOps**: Kubernetes, Docker, GitHub
 - **Tools**: VSCode, Postman, Git, AWS
 
 ### 📈 GitHub Stats
