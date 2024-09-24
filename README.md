@@ -1,16 +1,5 @@
 # Hi there 👋 I'm [Your Name]!
 
-I'm a passionate developer with a love for coding, problem-solving, and learning new technologies. Here are some fun facts about me:
-
-- 🔭 I’m currently working on [Your Current Project/Field]
-- 🌱 I’m currently learning [Technologies or Topics you're exploring]
-- 👯 I’m looking to collaborate on [Projects you’re interested in collaborating on]
-- 🤔 I’m looking for help with [Specific areas where you need support]
-- 💬 Ask me about [Key skills or topics you’re comfortable discussing]
-- 📫 How to reach me: [Your email or LinkedIn]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Something interesting about you]
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> 
 <br/> 
 <div align="center">     
