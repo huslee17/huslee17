@@ -1,6 +1,3 @@
-# Hi there 👋 I'm Khuslee!
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> 
 <br/> 
 <div align="center">     
     <img src="https://skillicons.dev/icons?i=react,vscode,github,kubernetes,docker,tailwind,git,eclipse,linux,postgres,postman" />     
